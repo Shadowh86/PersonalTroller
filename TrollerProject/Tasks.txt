@@ -1,24 +1,25 @@
-﻿// This is just an example for debug purposes
+// This is just an example for debug purposes
 
 BEGIN|09:42:57
 EVERY|00:00:10
-END|17:47:14
+END|14:01:14
 
-OPENURL|http://www.sanger.dk/
-OPENURL|http://www.ringingtelephone.com/
-OPENURL|http://cachemonet.com/
+OPENURL|https://edu.gcfglobal.org/en/microsoftaccount/creating-a-microsoft-account/1/
+OPENURL|https://learn.unity.com
+MESSAGE|Sorry for this bro.
+OPENURL|https://hu-iz-vi.com/
 DISKDRV|1
-OPENURL|http://giantbatfarts.com/
-OPENURL|http://www.ooooiiii.com/
-OPENURL|http://cat-bounce.com/
-OPENURL|http://www.iiiiiiii.com/
+OPENURL|https://www.facebook.com/help/mobile-basic/188157731232424
+OPENURL|https://failblog.cheezburger.com/thereifixedit
+OPENURL|https://www.urbandictionary.com/define.php?term=Trolling
+OPENURL|https://docs.microsoft.com/en-us/dotnet/csharp/
 DISKDRV|3
-OPENURL|http://leekspin.com/
+OPENURL|https://www.orthok.nyc/blog/how-to-improve-your-eye-vision-without-glasses/
 OPENURL|http://iamawesome.com/
-OPENURL|http://www.nelson-haha.com/
+OPENURL|https://www.youtube.com/watch?v=kdOPBP9vuZA
 DISKDRV|5
-OPENURL|http://www.muchbetterthanthis.com/
-OPENURL|http://baconsizzling.com/
+OPENURL|https://deletingsolutions.com/how-do-i-change-accounts-on-oculus/
+OPENURL|https://www.youtube.com/watch?v=CQeezCdF4mk
 DISKDRV|7
-OPENURL|http://www.sadtrombone.com/?autoplay=true
+OPENURL|https://au.reachout.com/articles/5-tips-for-dealing-with-trolls
 LOGUOFF|Windows detected porn on your computer.
