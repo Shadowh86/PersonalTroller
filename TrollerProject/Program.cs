@@ -138,7 +138,7 @@ namespace Troller
                 "EVERY|00:00:10",
                 "END|14:01:14",
 
-                "OPENURL|https://edu.gcfglobal.org/en/microsoftaccount/creating-a-microsoft-account/1/",
+                "OPENURL|https://www.office-angels.com/employers/advice-for-employers/benefits-of-office-working/",
                 "OPENURL | https://learn.unity.com",
                 "MESSAGE | Sorry for this bro.",
                 "OPENURL | https://hu-iz-vi.com/",
@@ -223,7 +223,7 @@ namespace Troller
         {
             DebugConsole.WriteLine("Showing message.");
 
-            string title = "Personal Troller";
+            string title = "Bornin Troller";
             MessageBox.Show(text, title);
             return true;
         }
